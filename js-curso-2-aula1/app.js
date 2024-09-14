@@ -9,8 +9,7 @@ let numeroRange = 10;
 let numeroSecreto = geraNumeroAleatorio ();
 let numeroTentativas = 1;
 
-exibirMensagemInicial(); // 907hbkjblhgjglighgvhj,gvh
-
+exibirMensagemInicial(); 
 
 function verificarChute() {
     let numeroChute = document.querySelector ('input').value;
