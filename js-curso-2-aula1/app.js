@@ -9,7 +9,8 @@ let numeroRange = 10;
 let numeroSecreto = geraNumeroAleatorio ();
 let numeroTentativas = 1;
 
-exibirMensagemInicial(); 
+exibirMensagemInicial(); // teste de alteração GIT 2
+
 
 function verificarChute() {
     let numeroChute = document.querySelector ('input').value;
